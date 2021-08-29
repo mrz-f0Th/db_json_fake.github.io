@@ -1,0 +1,168 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Chicken Katsu",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "katsu.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Gorengan",
+      "harga": 1000,
+      "is_ready": true,
+      "gambar": "gorengan.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Kentang Goreng",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "kentang-goreng.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Chicken Katsu",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "katsu.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Gorengan",
+      "harga": 1000,
+      "is_ready": true,
+      "gambar": "gorengan.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Kentang Goreng",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "kentang-goreng.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Mie Ayam Bakso",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "mie-ayam-bakso.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Bakso",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "bakso.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Pangsit 6 pcs",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "pangsit.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Nasi Rames",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Dimsum",
+      "harga": 1500,
+      "is_ready": true,
+      "gambar": "dimsum.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "K-10",
+      "nama": "Nasi Goreng",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telor.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "K-11",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "K-12",
+      "nama": "Burger",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "burger.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "Raka",
+      "no_meja": "3",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "products": {
+            "id": 12,
+            "kode": "K-12",
+            "nama": "Burger",
+            "harga": 7000,
+            "is_ready": true,
+            "gambar": "burger.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nama": "Raka",
+      "no_meja": "3",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "3",
+          "keterangan": "-",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Chicken Katsu",
+            "harga": 8000,
+            "is_ready": true,
+            "gambar": "katsu.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
